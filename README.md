@@ -52,6 +52,6 @@ I'm focused on strengthening my fundamentals, building meaningful projects, and 
 
 ## 🤝 Let's Connect
 
-🔗 **LinkedIn:** [Vedang Anand](www.linkedin.com/in/vedang-anand-82465b430)
+🔗 **LinkedIn:** [Vedang Anand](https://www.linkedin.com/in/vedang-anand-82465b430/)
 
 💻 **GitHub:** [vedanganand](https://github.com/vedanganand)
